@@ -1,0 +1,1 @@
+This repository contains a simple Python program that demonstrates a common error: attempting arithmetic operations on incompatible data types within a list.  The `bug.py` file shows the erroneous code. The solution, in `bugSolution.py`, addresses this by adding input validation to ensure all list elements are numbers before proceeding with the average calculation.
